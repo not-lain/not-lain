@@ -1,10 +1,3 @@
-<style>
-  .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 
 <p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">
@@ -53,12 +46,20 @@
 
 
 
-<img class="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafedh-hichri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafedh-hichri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
 
 
-<img class="center" src="https://github-readme-stats.vercel.app/api?username=hafedh-hichri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://github-readme-stats.vercel.app/api?username=hafedh-hichri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
 
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafedh-hichri&theme=react&border=61dafb&hide_border=true" alt="hafedh-hichri" />
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=hafedh-hichri&theme=react&border=61dafb&hide_border=true" alt="hafedh-hichri" />
 
 
-<img class="center" src="https://activity-graph.herokuapp.com/graph?username=hafedh-hichri&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://activity-graph.herokuapp.com/graph?username=hafedh-hichri&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
