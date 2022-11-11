@@ -1,21 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-<head>
-<style>
-  .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 </style>
-</head>
 <p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">
   </p>
@@ -63,15 +47,20 @@
 
 
 
-<img class="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafedh-hichri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafedh-hichri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
 
 
-<img class="center" src="https://github-readme-stats.vercel.app/api?username=hafedh-hichri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://github-readme-stats.vercel.app/api?username=hafedh-hichri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
 
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafedh-hichri&theme=react&border=61dafb&hide_border=true" alt="hafedh-hichri" />
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=hafedh-hichri&theme=react&border=61dafb&hide_border=true" alt="hafedh-hichri" />
 
 
-<img class="center" src="https://activity-graph.herokuapp.com/graph?username=hafedh-hichri&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-</body>
-</html>
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://activity-graph.herokuapp.com/graph?username=hafedh-hichri&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
