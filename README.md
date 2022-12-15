@@ -47,21 +47,39 @@
 
 
 
+<div style="display: block;" align="center">
+
+<!--
+/////// 
+TODO : add spotify url by hosting it on novaterm
+[![Spotify](https://novatorem-8vrkbcul1-droidzed.vercel.app/api/spotify)](https://open.spotify.com/user/9jib0d4osau56gxt26y8oca6h)
+-->
+
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hafedh-hichri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
+
+<br/>
 
 
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hafedh-hichri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
 
-
+<br/>
 
 <img class="center" src="https://github-readme-stats.vercel.app/api?username=hafedh-hichri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
 
 
+<br/>
 
 <img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafedh-hichri&theme=react&border=61dafb&hide_border=true" alt="hafedh-hichri" />
 
+<br/>
 
+<!--
+WHY ISN'T THIS WORKIIIING
 <img class="center" src="https://activity-graph.herokuapp.com/graph?username=hafedh-hichri&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+-->
 
+<br/>
 
-
+</div>
