@@ -56,9 +56,7 @@ TODO : add spotify url by hosting it on novaterm
 -->
 
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hafedh-hichri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
 
-<br/>
 
 
 
