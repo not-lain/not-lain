@@ -15,7 +15,7 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/isshafedh" target="blank"><img src="https://img.shields.io/twitter/follow/isshafedh?logo=twitter&style=for-the-badge" alt="isshafedh" /></a> </p>
+<p align="center"> <a href="https://twitter.com/her_croissant" target="blank"><img src="https://img.shields.io/twitter/follow/her_croissant?logo=twitter&style=for-the-badge" alt="her_croissant" /></a> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafedh-hichri&theme=onedark&row=2&column=3" alt="hafedh-hichri" /></a> </p>
@@ -31,13 +31,13 @@
 
 - 💬 Ask me about **quantum computing ⚛️**
 
-- 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/)](https://www.linkedin.com/in/hafedh-hihcri/) [![Twitter Badge](https://img.shields.io/badge/-@isshafedh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/isshafedh)](https://twitter.com/isshafedh)**
+- 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/)](https://www.linkedin.com/in/hafedh-hihcri/) [![Twitter Badge](https://img.shields.io/badge/-@her_croissant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/her_croissant)](https://twitter.com/her_croissant)**
 
 - ⚡ Fun fact **if you water water it grows**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/isshafedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isshafedh" height="30" width="40" /></a>
+<a href="https://twitter.com/her_croissant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="her_croissant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hafedh-hichri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafedh-hichri" height="30" width="40" /></a>
 </p>
 
