@@ -80,4 +80,5 @@ WHY ISN'T THIS WORKIIIING
 
 <br/>
 
+[![Spotify](https://novatorem-gamma-tan-65.vercel.app/api/spotify)](https://open.spotify.com/user/2jufg0agb6jrkwysutu217ttd)
 </div>
