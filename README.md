@@ -10,15 +10,15 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/followers/hafedh-hichri?color=green&logo=github)
-![](https://komarev.com/ghpvc/?username=hafedh-hichri)
+![](https://img.shields.io/github/followers/lain-making-bread?color=green&logo=github)
+![](https://komarev.com/ghpvc/?username=lain-making-bread)
 
 
 
 <p align="center"> <a href="https://twitter.com/her_croissant" target="blank"><img src="https://img.shields.io/twitter/follow/her_croissant?logo=twitter&style=for-the-badge" alt="her_croissant" /></a> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafedh-hichri&theme=onedark&row=2&column=3" alt="hafedh-hichri" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lain-making-bread&theme=onedark&row=2&column=3" alt="lain-making-bread" /></a> </p>
 </div>
 
 - 🔭 I’m currently working on **deep learning | Transformers**
@@ -51,21 +51,21 @@
 
 
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hafedh-hichri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lain-making-bread&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="lain-making-bread" />
 
 <br/>
 
-<img class="center" src="https://github-readme-stats.vercel.app/api?username=hafedh-hichri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="hafedh-hichri" />
+<img class="center" src="https://github-readme-stats.vercel.app/api?username=lain-making-bread&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="lain-making-bread" />
 
 
 <br/>
 
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafedh-hichri&theme=react&border=61dafb&hide_border=true" alt="hafedh-hichri" />
+<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lain-making-bread&theme=react&border=61dafb&hide_border=true" alt="lain-making-bread" />
 
 <br/>
 
 
-[![hafedh's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hafedh-hichri&theme=github-compact&hide_border=true)](https://github.com/hafedh-hichri)
+[![hafedh's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lain-making-bread&theme=github-compact&hide_border=true)](https://github.com/lain-making-bread)
 
 <br/>
 
