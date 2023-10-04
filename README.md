@@ -55,7 +55,7 @@
 
 <br/>
 
-<img class="center" src="https://github-readme-stats.vercel.app/api?username=lain-making-bread&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="lain-making-bread" />
+[![lain's GitHub stats](https://github-readme-stats.vercel.app/api?username=lain-making-bread&show_icons=true&theme=react)](https://github.com/lain-making-bread)
 
 
 <br/>
@@ -65,7 +65,7 @@
 <br/>
 
 
-[![hafedh's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lain-making-bread&theme=github-compact&hide_border=true)](https://github.com/lain-making-bread)
+[![lain's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lain-making-bread&theme=github-compact&hide_border=true)](https://github.com/lain-making-bread)
 
 <br/>
 
