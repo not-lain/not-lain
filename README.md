@@ -10,15 +10,15 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/followers/lain-making-bread?color=green&logo=github)
-![](https://komarev.com/ghpvc/?username=lain-making-bread)
+![](https://img.shields.io/github/followers/not-lain?color=green&logo=github)
+![](https://komarev.com/ghpvc/?username=not-lain)
 
 
 
 <p align="center"> <a href="https://twitter.com/her_croissant" target="blank"><img src="https://img.shields.io/twitter/follow/her_croissant?logo=twitter&style=for-the-badge" alt="her_croissant" /></a> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lain-making-bread&theme=onedark&row=2&column=3" alt="lain-making-bread" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=not-lain&theme=onedark&row=2&column=3" alt="not-lain" /></a> </p>
 </div>
 
 - 🔭 I’m currently working on **deep learning | Transformers**
@@ -51,21 +51,21 @@
 
 
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lain-making-bread&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="lain-making-bread" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=not-lain&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="not-lain" />
 
 <br/>
 
-[![lain's GitHub stats](https://github-readme-stats.vercel.app/api?username=lain-making-bread&show_icons=true&theme=react)](https://github.com/lain-making-bread)
+[![lain's GitHub stats](https://github-readme-stats.vercel.app/api?username=not-lain&show_icons=true&theme=react)](https://github.com/not-lain)
 
 
 <br/>
 
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lain-making-bread&theme=react&border=61dafb&hide_border=true" alt="lain-making-bread" />
+<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=not-lain&theme=react&border=61dafb&hide_border=true" alt="not-lain" />
 
 <br/>
 
 
-[![lain's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lain-making-bread&theme=github-compact&hide_border=true)](https://github.com/lain-making-bread)
+[![lain's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not-lain&theme=github-compact&hide_border=true)](https://github.com/not-lain)
 
 <br/>
 
