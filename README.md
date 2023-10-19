@@ -63,5 +63,5 @@
 
 ### Now i'm listening to : 
 
-[![Spotify](https://novatorem-gamma-tan-65.vercel.app/api/spotify)](https://open.spotify.com/user/2jufg0agb6jrkwysutu217ttd)
+[![Spotify](https://hafedh-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/2jufg0agb6jrkwysutu217ttd)
 </div>
