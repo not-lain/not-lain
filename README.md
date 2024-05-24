@@ -42,8 +42,11 @@
 <br><br>
 
 I author blogposts on 🤗 in my free time, feel free to check the following blogs :
+
 - [RAG chatbot using llama3](https://huggingface.co/blog/not-lain/rag-chatbot-using-llama3) : retrieval pipeline built purely with huggingface related tools and an LLM on top of it
+
 - [Train custom AI models with the trainer API and adapt them to 🤗](https://huggingface.co/blog/not-lain/trainer-api-and-mixin-classes) : to train AI models with the trainer API which is  compatible with DDP, we also used `PyTorchModelHubMixin` to integrate our model with HF
+
 - [Custom architectures with HuggingFace 🤗](https://huggingface.co/blog/not-lain/custom-architectures-with-huggingface) : to integrate custom AI models with the transformers library.
 
 <!--
