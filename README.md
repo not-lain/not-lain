@@ -70,4 +70,3 @@ I author blogposts on 🤗 in my free time, feel free to check the following blo
 
 [![Spotify](https://hafedh-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/2jufg0agb6jrkwysutu217ttd)
 -->
-</div>
