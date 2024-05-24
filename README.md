@@ -37,10 +37,14 @@
 <p align="center"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
+<br><br>
+<hr>
+<br><br>
 
-
-<div style="display: block;" align="center">
-
+I author blogposts on 🤗 in my free time, feel free to check the following blogs :
+- [RAG chatbot using llama3](https://huggingface.co/blog/not-lain/rag-chatbot-using-llama3) : retrieval pipeline built purely with huggingface related tools and an LLM on top of it
+- [Train custom AI models with the trainer API and adapt them to 🤗](https://huggingface.co/blog/not-lain/trainer-api-and-mixin-classes) : to train AI models with the trainer API which is  compatible with DDP, we also used `PyTorchModelHubMixin` to integrate our model with HF
+- [Custom architectures with HuggingFace 🤗](https://huggingface.co/blog/not-lain/custom-architectures-with-huggingface) : to integrate custom AI models with the transformers library.
 
 <!--
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=not-lain&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="not-lain" />
@@ -60,9 +64,10 @@
 [![lain's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not-lain&theme=github-compact&hide_border=true)](https://github.com/not-lain)
 
 <br/>
--->
+
 
 ### Now i'm listening to : 
 
 [![Spotify](https://hafedh-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/2jufg0agb6jrkwysutu217ttd)
+-->
 </div>
