@@ -7,21 +7,28 @@
 
  </p>
 
-
+<!--
 <div align="center">
 
 ![](https://img.shields.io/github/followers/not-lain?color=green&logo=github)
 ![](https://komarev.com/ghpvc/?username=not-lain)
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=not-lain&theme=onedark&row=2&column=3" alt="not-lain" /></a> </p>
 </div>
+-->
 
+<div align="center">
+<a href="https://www.linkedin.com/in/hafedh-hichri/">
+  <img src ="https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/"/>
+</a>
+<a href="https://x.com/not_so_lain">
+  <img src="https://img.shields.io/badge/-@not_so_lain-181818?style=flat&logo=X&logoColor=white&link=https://twitter.com/not_so_lain" />
+</a>
+</div>
 
-- 📫 How to reach me  [![Linkedin Badge](https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/)](https://www.linkedin.com/in/hafedh-hihcri/) [![Twitter Badge](https://img.shields.io/badge/-@not_so_lain-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/not_so_lain)](https://twitter.com/not_so_lain)
-
-- ⚡ Fun fact **if you water water it grows**
-
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/)](https://www.linkedin.com/in/hafedh-hichri/) [![Twitter Badge](https://img.shields.io/badge/-@not_so_lain-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/not_so_lain)](https://twitter.com/not_so_lain)
+-->
 
 
 <h3 align="center">Languages and Tools:</h3>
