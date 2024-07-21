@@ -18,10 +18,10 @@
 -->
 
 <div align="center">
-<a href="https://www.linkedin.com/in/hafedh-hichri/">
+<a href="https://www.linkedin.com/in/hafedh-hichri/" target="_blank">
   <img src ="https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/"/>
 </a>
-<a href="https://x.com/not_so_lain">
+<a href="https://x.com/not_so_lain" target="_blank">
   <img src="https://img.shields.io/badge/-@not_so_lain-181818?style=flat&logo=X&logoColor=white&link=https://twitter.com/not_so_lain" />
 </a>
 </div>
