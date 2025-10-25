@@ -19,16 +19,15 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/hafedh-hichri/" target="_blank">
-  <img src ="https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/"/>
+  <img src ="https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hichri/"/>
 </a>
 <a href="https://x.com/not_so_lain" target="_blank">
   <img src="https://img.shields.io/badge/-@not_so_lain-181818?style=flat&logo=X&logoColor=white&link=https://twitter.com/not_so_lain" />
 </a>
+<a href="http://not-lain.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-4AB197?style=flat&logo=About.me&logoColor=white&link=https://hafedh-hichri.com/" />
 </div>
 
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/)](https://www.linkedin.com/in/hafedh-hichri/) [![Twitter Badge](https://img.shields.io/badge/-@not_so_lain-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/not_so_lain)](https://twitter.com/not_so_lain)
--->
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -41,36 +40,14 @@
 
 I author blogposts on 🤗 in my free time, feel free to check the following blogs :
 
+- [Visualizing How VLMs Work](https://huggingface.co/blog/not-lain/vlms) : a blog post about how Idefics3 processes images and text to produce relevant outputs 🖼️
+
+- [KV Caching Explained](https://huggingface.co/blog/not-lain/kv-caching) : a blog post about how key-value caching optimizes model generation in autoregressive models ⚡
+
+- [Mastering Tensor Dimensions in Transformers](https://huggingface.co/blog/not-lain/tensor-dims) : a blog post about how tensor dimensions work in transformers 🤖
+
 - [Image-based search engine](https://huggingface.co/blog/not-lain/image-retriever) : a blog post about building an image based search engine 🖼️
   
-- [RAG chatbot using llama3](https://huggingface.co/blog/not-lain/rag-chatbot-using-llama3) : retrieval pipeline built purely with huggingface related tools and an LLM on top of it
+- [RAG using llama3](https://huggingface.co/blog/not-lain/rag-chatbot-using-llama3) : retrieval pipeline built purely with huggingface related tools and an LLM on top of it
 
 - [Train custom AI models with the trainer API and adapt them to 🤗](https://huggingface.co/blog/not-lain/trainer-api-and-mixin-classes) : to train AI models with the trainer API which is  compatible with DDP, we also used `PyTorchModelHubMixin` to integrate our model with HF
-
-- [Custom architectures with HuggingFace 🤗](https://huggingface.co/blog/not-lain/custom-architectures-with-huggingface) : to integrate custom AI models with the transformers library.
-
-
-<!--
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=not-lain&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="not-lain" />
-
-<br/>
-
-[![lain's GitHub stats](https://github-readme-stats.vercel.app/api?username=not-lain&show_icons=true&theme=react)](https://github.com/not-lain)
-
-
-<br/>
-
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=not-lain&theme=react&border=61dafb&hide_border=true" alt="not-lain" />
-
-<br/>
-
-
-[![lain's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not-lain&theme=github-compact&hide_border=true)](https://github.com/not-lain)
-
-<br/>
-
-
-### Now i'm listening to : 
-
-[![Spotify](https://hafedh-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/2jufg0agb6jrkwysutu217ttd)
--->
