@@ -7,15 +7,6 @@
 
  </p>
 
-<!--
-<div align="center">
-
-![](https://img.shields.io/github/followers/not-lain?color=green&logo=github)
-![](https://komarev.com/ghpvc/?username=not-lain)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=not-lain&theme=onedark&row=2&column=3" alt="not-lain" /></a> </p>
-</div>
--->
 
 <div align="center">
 <a href="https://www.linkedin.com/in/hafedh-hichri/" target="_blank">
